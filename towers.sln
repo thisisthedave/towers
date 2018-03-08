@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "towers", "towers.csproj", "{BE619373-F891-42A6-B7DF-6965474C47B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "towers.Editor", "towers.Editor.csproj", "{78456332-41AB-D324-0F14-6C6449598D4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE619373-F891-42A6-B7DF-6965474C47B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE619373-F891-42A6-B7DF-6965474C47B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE619373-F891-42A6-B7DF-6965474C47B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE619373-F891-42A6-B7DF-6965474C47B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78456332-41AB-D324-0F14-6C6449598D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78456332-41AB-D324-0F14-6C6449598D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78456332-41AB-D324-0F14-6C6449598D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78456332-41AB-D324-0F14-6C6449598D4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
